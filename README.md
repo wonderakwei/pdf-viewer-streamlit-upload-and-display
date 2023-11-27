@@ -10,12 +10,3 @@ A Streamlit app for seamlessly uploading and displaying PDF files. Utilizes #Str
 
 #Python #StreamlitApp #PDFProcessing #DataVisualization #UserInterface #OpenSource
 
-
-
-
-Provide guidelines for others who may want to contribute to your project. Include information about how to report issues, submit feature requests, or contribute code.
-
-## License
-
-Specify the license under which your project is distributed.
-
